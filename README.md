@@ -79,10 +79,6 @@ To customize this portfolio:
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 📧 Contact
 
 **Sivasai Nukala** - [sivasainookala@gmail.com]
