@@ -898,3 +898,130 @@ body {
     font-size: 2rem;
   }
 }
+
+
+@media (max-width: 768px) {
+  .education-item {
+    padding: 1.5rem;
+  }
+  
+  .education-item h3 {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .skill-category {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .cert-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .cert-card {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .achievement-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .achievement-card {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .project-card {
+    margin-bottom: 1.5rem;
+  }
+  
+  .project-img {
+    height: 180px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-text h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  .hero-text p {
+    font-size: 1rem;
+  }
+  
+  .profile-img {
+    max-width: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav-container {
+    padding: 0 1rem;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  .logo i {
+    font-size: 1.2rem;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .footer-links {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .footer-logo {
+    font-size: 1.8rem;
+  }
+  
+  .back-to-top {
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .section h2 {
+    font-size: 2rem;
+  }
+  
+  .section h2::after {
+    width: 60px;
+    height: 3px;
+    bottom: -8px;
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 80px 1rem;
+  }
+  
+  .hero {
+    padding: 0 1rem;
+  }
+}
+
